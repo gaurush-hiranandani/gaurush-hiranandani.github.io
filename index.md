@@ -7,6 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./about.md).
 [Click me](http://www.google.com){: .btn}
 [Click me](./about.md){: .btn}
+{% include button.html url="http://www.google.com" %}
 
 There should be whitespace between paragraphs.
 
