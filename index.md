@@ -4,9 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./about.md).
-[CV](http://www.google.com){: .btn}
-[Projects](./about.md){: .btn}
+<!-- [Link to another page](./about.md).-->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](http://www.google.com){: .btn}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./about.md){: .btn}
 
 
 There should be whitespace between paragraphs.
