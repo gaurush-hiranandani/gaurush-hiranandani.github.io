@@ -5,9 +5,9 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./about.md).
-[Click me](http://www.google.com){: .btn}
-[Click me](./about.md){: .btn}
-{% include includes/button.html button_name="My1 Button" button_class="outline-primary" url="google.com"; %}
+[CV](http://www.google.com){: .btn}
+[Projects](./about.md){: .btn}
+
 
 There should be whitespace between paragraphs.
 
