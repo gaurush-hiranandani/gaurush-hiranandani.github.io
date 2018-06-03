@@ -5,6 +5,11 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./about.md).
+[button url=./about.md]
+[button url="http://www.google.com"]
+[button url="http://www.google.com"]
+[button url="http://www.google.com"]
+
 
 There should be whitespace between paragraphs.
 
