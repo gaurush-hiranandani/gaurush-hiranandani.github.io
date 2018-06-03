@@ -3,5 +3,5 @@ description: 'Ph.D. Student, Department of Computer Science, University of Illin
 logo: /assets/img/logo.JPG
 show_downloads: false
 google_analytics: 
-theme: jekyll-theme-minimal
-remote_theme: mmistakes/hpstr-jekyll-theme
+theme: jekyll-theme-dinky
+# remote_theme: mmistakes/hpstr-jekyll-theme
