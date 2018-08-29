@@ -2,5 +2,5 @@
 layout: default
 ---
 
-[CV](./docs/cv.pdf){: .btn}
+[CV](./assets/docs/cv.pdf){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./about.md){: .btn}
