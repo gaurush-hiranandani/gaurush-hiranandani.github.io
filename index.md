@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[CV](./assets/docs/cv.pdf){: .btn}
+[CV](./assets/docs/cv_new.pdf){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Publications](./about.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./about.md){: .btn}
 
