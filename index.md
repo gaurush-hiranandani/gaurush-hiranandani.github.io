@@ -3,8 +3,8 @@ layout: default
 ---
 
 [CV](./assets/docs/cv_new.pdf){: .btn}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Publications](./about.md){: .btn}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./about.md){: .btn}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Publications](./publications.md){: .btn}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./projects.md){: .btn}
 
 # About Me
 
