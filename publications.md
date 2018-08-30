@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-* stands for equal contribution.
+<nowiki>*</nowiki> stands for equal contribution.
 
 ## Submitted Publications
 
@@ -13,11 +13,11 @@ Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
 [[Arxiv URL]](https://arxiv.org/abs/1806.01827)
 
 * **Rating Transformations for Matrix Facrorization**<br />
-Gaurush Hiranandani, Raghav Somani, Sreangsu Accharya, Oluwasanmi Koyejo.<br />
+Gaurush Hiranandani*, Raghav Somani*, Sreangsu Accharya, Oluwasanmi Koyejo.<br />
 Under review at top-tier double blind conference.
 
-* **Eliciting Binary Performance Metrics**<br />
-Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
+* **Online Recommendations of Diverse Items**<br />
+Prakhar Gupta*, Gaurush Hiranandani*, Harvineet Singh*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
 Under review at top-tier double blind conference.
 
 ## Journal Publication
