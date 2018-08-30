@@ -4,6 +4,7 @@ layout: default
 
 [CV](./assets/docs/cv_extended.pdf){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Publications](./publications.md){: .btn}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Awards](./awards.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./projects.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Students](./students.md){: .btn}
 
@@ -14,6 +15,11 @@ I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advi
 # Ph.D. Research Internships
 
 I spent summers'18 at the wonderful office of [Microsoft Research, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I was mentored by [Dr. Prateek Jain](http://www.prateekjain.org/) and Dr. Ayush Choure. 
+
+# NEWS
+
+* (MAY 2018) Presented our paper on [Sparse Decomposition of Time Series](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) at [SIAM International Conference on Data Mining (SDM), 2018](https://archive.siam.org/meetings/sdm18/) held in San Diego, USA.
+* (October 2017) Our paper on [Enhanced Digital Marketing using Augmented Reality](https://ieeexplore.ieee.org/document/8088451/) was presented by [Dr. Atanu Sinha](https://research.adobe.com/person/atanu-sinha/) at [International Symposium on Mixed and Augmented Reality (ISMAR), 2017](https://ismar2017.sciencesconf.org/) held in Nantes, France.
 
 # Collaborators
 
