@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<nowiki>*</nowiki> stands for equal contribution.
+\* stands for equal contribution.
 
 ## Submitted Publications
 
@@ -37,7 +37,7 @@ SIAM International Conference on Data Mining (SDM), 2018.<br />
 * **Enhanced Personalized Targeting Using Augmented Reality**<br />
 Gaurush Hiranandani, Kumar Ayush, Atanu Sinha, Sai Varun Reddy Maram, Chinnaobireddy Varsha, and Pranav Maneriker.<br />
 International Symposium on Mixed and Augmented Reality (ISMAR), 2017.<br />
-[[URL]]()
+[[URL]](https://ieeexplore.ieee.org/document/8088451/)
 
 * **Generating Appealing Brand Names**<br />
 Gaurush Hiranandani, Pranav Maneriker, and Harsh Jhamtani.<br />
@@ -52,4 +52,4 @@ International Conference on Web Information Systems Engineering (WISE), 2016.<br
 * **Improved Classification and Reconstruction by Introducing Independence and Randomization in Deep Neural Networks**<br />
 Gaurush Hiranandani, and Harish Karnick.<br />
 Digital Image Computing: Techniques and Applications (DICTA), 2015.<br />
-[[URL]]()
+[[URL]](https://ieeexplore.ieee.org/document/7371270/)
