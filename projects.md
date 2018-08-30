@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-* Heading New
+# Fun and Course Projects
 
-TESTING
+* 
 
