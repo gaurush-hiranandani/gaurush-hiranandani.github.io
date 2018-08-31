@@ -6,7 +6,7 @@ permalink: /students/
 I have been extremely lucky to have worked with some amazing interns.
 
 * Meet Vora (IIT Roorkee, 2017)
-* Ankur (IIT Kanpur, 2017)
+* Ankur Kumar (IIT Kanpur, 2017)
 * Aditya Jain (IIT Kharagpur, 2017)
 * Pranav Vaishnav (IIT Kharagpur, 2017)
 * Kumar Ayush (IIT Kharagpur, 2016)
