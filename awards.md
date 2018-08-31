@@ -19,7 +19,7 @@ Dated: 8th June 2015.
 
 ![convo_1](../assets/img/convo_1.png "Front page mention of convocation")
 
-![convo_1](../assets/img/convo_1.png | width=100)
+![convo_1](../assets/img/convo_1.png =25x25)
 
 The caption reads, "Talent being rewarded: Chairman Prof. M. Anandkrishnan and Director Prof. Indranil Manna presenting degree to the winner of four medals, student of Mathematics and Scientific Computing program, Gaurush Hiranandani, during the convocation ceremony of IIT Kanpur."
 
