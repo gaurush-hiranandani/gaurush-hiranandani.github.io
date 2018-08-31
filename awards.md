@@ -21,7 +21,7 @@ Dated: 8th June 2015.
 
 The caption reads, "Talent being rewarded: Chairman Prof. M. Anandkrishnan and Director Prof. Indranil Manna presenting degree to the winner of four medals, student of Mathematics and Scientific Computing program, Gaurush Hiranandani, during the convocation ceremony of IIT Kanpur."
 
-![convo_2](../assets/img/convo_2.png resized=10 "Published as jump to the above story")
+![convo_2](../assets/img/convo_2.png "Published as jump to the above story")
 
 It reads, "Elder brother becomes inspirational source: The real inspiration for Gauursh Hiranandani, who won four medals during the convocation ceremony, was his brother. Seeing his brother pursuing M.Tech from IIT Kanpur only, Gaurush decided to join the same place for his undergraduate studies. Four medals are results of his fervent hard work. Gaurush will join Adobe Research after graduation but he wishes to pursue a Ph.D. program in the future."
 
