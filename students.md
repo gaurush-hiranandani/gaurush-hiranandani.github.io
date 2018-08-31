@@ -3,7 +3,7 @@ layout: content
 title: Students
 permalink: /students/
 ---
-I have been gaurush extremely lucky to have worked with some amazing interns.
+I have been gaurus h extremely lucky to have worked with some amazing interns.
 
 * Meet Vora (IIT Roorkee, 2017)
 * Ankur (IIT Kanpur, 2017)
