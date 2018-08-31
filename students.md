@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: sidepage
 title: Students
 permalink: /students/
 ---
