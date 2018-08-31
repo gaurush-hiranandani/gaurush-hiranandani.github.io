@@ -18,7 +18,7 @@ I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 # Prior to Ph.D.
 
-* (June'15-July'17) I was a member of research staff at Adobe [Adobe Research, India](https://research.adobe.com/), where I mostly worked in [Time Series Analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) and Recommendation systems (paper submitted) and also explored many areas including [Augmented Reality](https://ieeexplore.ieee.org/document/8088451/) [Natural Language Processing](https://arxiv.org/abs/1706.09335), and Visualization (paper in preparation). However, all the projects had Artificial Intelligence or Machine Learning in action.
+* (June'15-July'17) I was a member of research staff at Adobe [Adobe Research, India](https://research.adobe.com/), where I mostly worked in [Time Series Analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) and Recommendation systems (paper submitted) and also explored many areas including [Augmented Reality](https://ieeexplore.ieee.org/document/8088451/), [Natural Language Processing](https://arxiv.org/abs/1706.09335), and Visualization (paper in preparation). However, all the projects had Artificial Intelligence or Machine Learning in action.
 
 * (Summers'14) I spent summers'14 at [Adobe Research, India](https://research.adobe.com/), where I worked on building a (recommendation) module that inspires creative artist to initiate new art work. Due to properiotery nature of the system, publishing papers was not easy; however, we filed 2 patents from this work.
 
