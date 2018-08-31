@@ -17,4 +17,4 @@ It was a proud moment for my family when I appeared on the front page of a natio
 
 Dated: 8th June 2015.
 
-![sgd_var](./assets/img/sgd_var.png "Logo Title Text 1")
+[sgd_var](./assets/img/sgd_var.png "Logo Title Text 1")
