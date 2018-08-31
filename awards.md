@@ -17,7 +17,7 @@ It was a proud moment for my family when I appeared on the front page of a natio
 
 Dated: 8th June 2015.
 
-![convo_1](../assets/img/convo_1.png "Front page mention of convocation" =250x)
+![convo_1](../assets/img/convo_1.png "Front page mention of convocation")
 
 The caption reads, "Talent being rewarded: Chairman Prof. M. Anandkrishnan and Director Prof. Indranil Manna presenting degree to the winner of four medals, student of Mathematics and Scientific Computing program, Gaurush Hiranandani, during the convocation ceremony of IIT Kanpur."
 
