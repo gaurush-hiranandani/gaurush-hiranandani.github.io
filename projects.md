@@ -15,11 +15,11 @@ permalink: /projects/
 
 * **Finite State Automata** | [The link to the modified simulator](https://href.li/?https://www.dropbox.com/s/9c5tzwn1awkdp5u/Source%20Code.zip) (BlueJ might help!)
 :-------------------------|:-------------------------
-![fsa](../assets/img/fsa.png "Finite State Automata Simulator"){:height="300px" width="400px"}  |  Extended the famous simulator made by J.Bovet (Software Engineer @BEAS , San Francisco)[1] for finite state automata. This was a course project for Theory of Computation (MTH401) offered in Fall 2012 at IIT Kanpur.<br />
+![fsa](../assets/img/sfa.png "Finite State Automata Simulator"){:height="300px" width="400px"}  |  Extended the famous simulator made by J.Bovet (Software Engineer @BEAS , San Francisco)[1] for finite state automata. This was a course project for Theory of Computation (MTH401) offered in Fall 2012 at IIT Kanpur.<br />
 [The link to the original simuator, Bovet, J. 2004. Visual Automata Simulator.](https://href.li/?http://www.cs.usfca.edu/~jbovet/vas.html)
 <br />
 Using computational algorithms, the new simulator converts any non-deterministic finite automata (NFA) to minimized deterministic finite automata (DFA), produces regular grammar, regular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expression and equivalent states for any DFA.
 
 * **Traffic Control Simulation** | [Link to the Simulator](https://href.li/?https://www.dropbox.com/s/vmyz7x1uxhvkui8/Code.zip)
 :-------------------------|:-------------------------
-![traffic_sim](../assets/img/traffic_sim.png "Traffic Simulator"){:height="300px" width="400px"}  |  This project was done with my two of my friends in the first year of my stay at IIT Kanpur. It is on simulating dynamically changing city traffic with real time updation (using weighted graph theory and optimization) in JAVA. Many companies are active in this this field, particularly, in construction of smarter traffic control systems. We tried to write everything from scratch, avoiding the use of existing libraries as much as we could.
+![traffic_sim](../assets/img/traffic_sim.PNG "Traffic Simulator"){:height="300px" width="400px"}  |  This project was done with my two of my friends in the first year of my stay at IIT Kanpur. It is on simulating dynamically changing city traffic with real time updation (using weighted graph theory and optimization) in JAVA. Many companies are active in this this field, particularly, in construction of smarter traffic control systems. We tried to write everything from scratch, avoiding the use of existing libraries as much as we could.
