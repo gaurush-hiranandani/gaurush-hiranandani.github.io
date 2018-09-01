@@ -4,10 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 # Fun and Course Projects
-
-Solarized dark             |  Solarized Ocean
+* **ECE 566: Computational Inference and Learning** [Project Report](../assets/docs/ece_566.pdf)
 :-------------------------:|:-------------------------:
-![sgd_var](../assets/img/sgd_var.png "ECE 566 Course Project")  |  talk about it
+![sgd_var](../assets/img/sgd_var.png "ECE 566 Course Project")  |  Optimization algorithms for large scale learning has gained considerable attention in the recent years in the Machine Learning community. Stochastic Gradient Descent (SGD) methods have become popular in today's world of data abundance. Many variants of SGD has since surfaced to attempt to reduce the variance of the gradients to provide better convergence to the optimal solution. We implement ten different variations (published within the last five years) of the standard stochastic gradient descent and report our findings in this article. To put the various SGD algorithms in practice, we apply them on a multilabel classification problem with different loss functions. Multi-label classification is one of the most interesting problems in Machine Learning having usefulness in multiple areas / industries, if solved properly. We study two loss functions - Hamming Loss and Subset 0/1 loss along with their similarities and differences. With these two losses, we identify two approaches to the multi-label problem - reduction to independent binary classification problems and reduction to a multi-class classification problem. This report contains related theoretical analysis and results for the two loss functions with ten different variants of SGD implemented on a benchmark multi-label classification dataset.
 
 * **ECE 566: Computational Inference and Learning** 
 ![sgd_var](../assets/img/sgd_var.png "ECE 566 Course Project")
