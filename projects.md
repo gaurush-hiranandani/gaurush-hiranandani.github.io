@@ -24,7 +24,7 @@ permalink: /projects/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The link to original simuator](https://href.li/?http://www.cs.usfca.edu/~jbovet/vas.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using computational algorithms, the new simulator converts any non-deterministic finite automata (NFA) to minimized deterministic finite automata (DFA), produces regular grammar, regular expression and equivalent states for any DFA.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using computational algorithms, the new simulator converts any non-deterministic finite automata (NFA) to minimized deterministic finite automata (DFA), produces regular grammar, regular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expression and equivalent states for any DFA.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The link to modified simulator](https://href.li/?https://www.dropbox.com/s/9c5tzwn1awkdp5u/Source%20Code.zip) (BlueJ on your PC will help !)
 
