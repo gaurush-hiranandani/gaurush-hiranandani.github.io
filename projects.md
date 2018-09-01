@@ -14,7 +14,7 @@ permalink: /projects/
 
 * **Traffic Control Simulation**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project was done with my 2 of my wing mates in first year of my stay at IIT Kanpur. It is on simulating dynamically changing city traffic with real time updation (using weighted graph theory and optimization) in JAVA. Companies like IBM do work a lot in this field particularly in construction of smarter traffic control systems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project was done with my 2 of my wing mates in first year of my stay at IIT Kanpur. It is on simulating dynamically changing city traffic with real time updation (using weighted graph theory and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;optimization) in JAVA. Companies like IBM do work a lot in this field particularly in construction of smarter traffic control systems.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link to the Simulator](https://href.li/?https://www.dropbox.com/s/vmyz7x1uxhvkui8/Code.zip)
 
@@ -24,7 +24,7 @@ permalink: /projects/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The link to original simuator](https://href.li/?http://www.cs.usfca.edu/~jbovet/vas.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using computational algorithms, the new simulator converts any non-deterministic finite automata (NFA) to minimized deterministic finite automata (DFA), produces regular grammar, regular expression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and equivalent states for any DFA.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using computational algorithms, the new simulator converts any non-deterministic finite automata (NFA) to minimized deterministic finite automata (DFA), produces regular grammar, regular expression &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and equivalent states for any DFA.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The link to modified simulator](https://href.li/?https://www.dropbox.com/s/9c5tzwn1awkdp5u/Source%20Code.zip) (BlueJ on your PC will help !)
 

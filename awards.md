@@ -23,7 +23,7 @@ The caption reads, **"Talent being rewarded: Chairman Prof. M. Anandkrishnan and
 
 ![convo_2](../assets/img/convo_2.png "Published as jump to the above story")
 
-It reads, **"Elder brother becomes inspirational source: The real inspiration for Gauursh Hiranandani, who won four medals during the convocation ceremony, was his brother. Seeing his brother pursuing M.Tech from IIT Kanpur, Gaurush decided to join the same place for his undergraduate studies. Four medals are results of his earnest hard work. Gaurush will join Adobe Research after graduation but he wishes to pursue a Ph.D. program in the future."**
+It reads, **"Elder brother becomes inspirational source: The real inspiration for Gaurush Hiranandani, who won four medals during the convocation ceremony, was his brother. Seeing his brother pursuing M.Tech from IIT Kanpur, Gaurush decided to join the same place for his undergraduate studies. Four medals are results of his earnest hard work. Gaurush will join Adobe Research after graduation but he wishes to pursue a Ph.D. program in the future."**
 
 
 
