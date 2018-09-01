@@ -18,7 +18,7 @@ permalink: /projects/
 ![sfa](../assets/img/sfa.png "Finite State Automata Simulator"){:height="300px" width="400px"}  |  Extended the famous simulator made by J.Bovet (Software Engineer @BEAS , San Francisco) for finite state automata. This was a course project for Theory of Computation (MTH401) offered in Fall 2012 at IIT Kanpur.<br />
 [The link to the original simuator, Bovet, J. 2004. Visual Automata Simulator.](https://href.li/?http://www.cs.usfca.edu/~jbovet/vas.html)
 <br />
-Using computational algorithms, the new simulator converts any non-deterministic finite automata (NFA) to minimized deterministic finite automata (DFA), produces regular grammar, regular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;expression and equivalent states for any DFA.
+Using computational algorithms, the new simulator converts any non-deterministic finite automata (NFA) to minimized deterministic finite automata (DFA), produces regular grammar, regular expression and equivalent states for any DFA.
 
 * **Traffic Control Simulation** | [Link to the Simulator](https://href.li/?https://www.dropbox.com/s/vmyz7x1uxhvkui8/Code.zip)
 :-------------------------|:-------------------------
