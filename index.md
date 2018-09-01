@@ -10,7 +10,7 @@ layout: default
 
 # About Me
 
-I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I worked at [Adobe Research, India](https://research.adobe.com/) for two years. I pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/) where I began my Machine Learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick).
+I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I worked at [Adobe Research, India](https://research.adobe.com/) for two years. I have pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/), where I began my Machine Learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick).
 
 # Ph.D. Research Internships
 
@@ -29,3 +29,8 @@ I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 * (May 2018) Presented our paper on [Sparse Decomposition of Time Series](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) at [SIAM International Conference on Data Mining (SDM), 2018](https://archive.siam.org/meetings/sdm18/) held in San Diego, USA.
 * (October 2017) Our paper on [Enhanced Digital Marketing using Augmented Reality](https://ieeexplore.ieee.org/document/8088451/) was presented by [Dr. Atanu Sinha](https://research.adobe.com/person/atanu-sinha/) at [International Symposium on Mixed and Augmented Reality (ISMAR), 2017](https://ismar2017.sciencesconf.org/) held in Nantes, France.
+
+
+# Teaching
+
+* Teaching Assistant for [CS 446: Machine Learning, Fall 2017](https://relate.cs.illinois.edu/course/cs446-fa17)
