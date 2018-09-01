@@ -6,7 +6,7 @@ permalink: /projects/
 # Fun and Course Projects
 
 * **ECE 566: Computational Inference and Learning** 
-![sgd_var](../assets/img/sgd_var.png size=10)
+![sgd_var](../assets/img/sgd_var.png 10)
 [ECE 566 Project Report](../assets/docs/ece_566.pdf)
 
 * **IE 510: Applied Nonlinear Programming** 
