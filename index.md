@@ -7,6 +7,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Awards](./awards.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./projects.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Students](./students.md){: .btn}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extra-currics](./extra-currics.md){: .btn}
 
 # About Me
 
