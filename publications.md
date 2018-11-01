@@ -6,19 +6,15 @@ permalink: /publications/
 
 \* stands for equal contribution.
 
-## Submitted Publications
+## Submitted / Prepared Publications
 
 * **Eliciting Binary Performance Metrics**<br />
 Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
 [[Arxiv URL]](https://arxiv.org/abs/1806.01827)
 
-* **Rating Transformations for Matrix Facrorization**<br />
-Gaurush Hiranandani\*, Raghav Somani\*, Sreangsu Accharya, Oluwasanmi Koyejo.<br />
-Under review at top-tier double blind conference.
-
-* **Online Recommendations of Diverse Items**<br />
+* **Online Diverse Learning to Rank from Partial-Click Feedback**<br />
 Prakhar Gupta\*, Gaurush Hiranandani\*, Harvineet Singh\*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
-Under review at top-tier double blind conference.
+[[Arxiv URL]]()
 
 ## Journal Publication
 
@@ -28,6 +24,11 @@ European Journal of Combinatorics, 2016.<br />
 [[URL]](https://www.sciencedirect.com/science/article/pii/S0195669815001274)
 
 ## Conference Publications
+
+* **Clustered Monotone Transforms for Rating Factorization**<br />
+Gaurush Hiranandani\*, Raghav Somani\*, Sreangsu Accharya, Oluwasanmi Koyejo.<br />
+To appear in Web Search and Data Mining (WSDM), 2019.<br />
+[[Arxiv URL]]() 
 
 * **Decomposition for Time Series Forecasting and Anomaly Detection**<br />
 Sunav Choudhary, Gaurush Hiranandani, and Shiv Kumar Saini.<br />
