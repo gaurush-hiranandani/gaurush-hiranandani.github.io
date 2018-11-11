@@ -14,7 +14,7 @@ Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
 
 * **Online Diverse Learning to Rank from Partial-Click Feedback**<br />
 Prakhar Gupta\*, Gaurush Hiranandani\*, Harvineet Singh\*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
-[[Arxiv URL]]()
+[[Arxiv URL]](https://arxiv.org/abs/1811.00911)
 
 ## Journal Publication
 
@@ -26,9 +26,9 @@ European Journal of Combinatorics, 2016.<br />
 ## Conference Publications
 
 * **Clustered Monotone Transforms for Rating Factorization**<br />
-Gaurush Hiranandani\*, Raghav Somani\*, Sreangsu Accharya, Oluwasanmi Koyejo.<br />
+Gaurush Hiranandani\*, Raghav Somani\*, Oluwasanmi Koyejo, Sreangsu Accharya.<br />
 To appear in Web Search and Data Mining (WSDM), 2019.<br />
-[[Arxiv URL]]() 
+[[Arxiv URL]](https://arxiv.org/abs/1811.00159) 
 
 * **Decomposition for Time Series Forecasting and Anomaly Detection**<br />
 Sunav Choudhary, Gaurush Hiranandani, and Shiv Kumar Saini.<br />
