@@ -28,7 +28,7 @@ I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 # NEWS
 
-* (October 2018) Our paper [Clustered Monotone Transforms for Rating Factorization](https://arxiv.org/abs/1811.00159) to appear International Conference on [Web Search and Data Mining](http://www.wsdm-conference.org/2019/).
+* (October 2018) Our paper [Clustered Monotone Transforms for Rating Factorization](https://arxiv.org/abs/1811.00159) to appear in International Conference on [Web Search and Data Mining](http://www.wsdm-conference.org/2019/).
 * (May 2018) Presented our paper on [Sparse Decomposition of Time Series](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) at [SIAM International Conference on Data Mining (SDM), 2018](https://archive.siam.org/meetings/sdm18/) held in San Diego, USA.
 * (October 2017) Our paper on [Enhanced Digital Marketing using Augmented Reality](https://ieeexplore.ieee.org/document/8088451/) was presented by [Dr. Atanu Sinha](https://research.adobe.com/person/atanu-sinha/) at [International Symposium on Mixed and Augmented Reality (ISMAR), 2017](https://ismar2017.sciencesconf.org/) held in Nantes, France.
 
