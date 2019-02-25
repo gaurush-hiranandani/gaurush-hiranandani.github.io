@@ -31,13 +31,13 @@ European Journal of Combinatorics, 2016.<br />
 
 * **Performance Metric Elicitation from  Pairwise Classifier Comparisons**<br />
 Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
-In Artificial Intelligence and Statistics (AISTATS), 2019.<br />
+To appear in Artificial Intelligence and Statistics (AISTATS), 2019.<br />
 [[Arxiv URL]](https://arxiv.org/abs/1806.01827)
 
 * **Clustered Monotone Transforms for Rating Factorization**<br />
 Gaurush Hiranandani\*, Raghav Somani\*, Oluwasanmi Koyejo, Sreangsu Accharya.<br />
 In Web Search and Data Mining (WSDM), 2019.<br />
-[[Arxiv URL]](https://arxiv.org/abs/1811.00159) [[Talk Video]](https://www.youtube.com/watch?v=KyHUan_7YnQ)
+[[URL]](https://dl.acm.org/citation.cfm?id=3291005) [[Arxiv URL]](https://arxiv.org/abs/1811.00159) [[Talk Video]](https://www.youtube.com/watch?v=KyHUan_7YnQ)
 
 * **Decomposition for Time Series Forecasting and Anomaly Detection**<br />
 Sunav Choudhary, Gaurush Hiranandani, and Shiv Kumar Saini.<br />
