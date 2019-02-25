@@ -13,7 +13,7 @@ Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
 Under review at a top-tier double blind conference.
 
 * **Recommendations using Multiple Side-Information**<br />
-Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.
+Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.<br />
 Under review at a top-tier double blind conference.
 
 * **Online Diverse Learning to Rank from Partial-Click Feedback**<br />
