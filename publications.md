@@ -8,9 +8,13 @@ permalink: /publications/
 
 ## Submitted / Prepared Publications
 
-* **Eliciting Binary Performance Metrics**<br />
+* **Eliciting Classification Performance Metrics**<br />
 Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
-[[Arxiv URL]](https://arxiv.org/abs/1806.01827)
+Under review at a top-tier double blind conference.
+
+* **Recommendations using Multiple Side-Information**<br />
+Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.
+Under review at a top-tier double blind conference.
 
 * **Online Diverse Learning to Rank from Partial-Click Feedback**<br />
 Prakhar Gupta\*, Gaurush Hiranandani\*, Harvineet Singh\*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
@@ -25,10 +29,15 @@ European Journal of Combinatorics, 2016.<br />
 
 ## Conference Publications
 
+* **Performance Metric Elicitation from  Pairwise Classifier Comparisons**<br />
+Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
+In Artificial Intelligence and Statistics (AISTATS), 2019.<br />
+[[Arxiv URL]](https://arxiv.org/abs/1806.01827)
+
 * **Clustered Monotone Transforms for Rating Factorization**<br />
 Gaurush Hiranandani\*, Raghav Somani\*, Oluwasanmi Koyejo, Sreangsu Accharya.<br />
-To appear in Web Search and Data Mining (WSDM), 2019.<br />
-[[Arxiv URL]](https://arxiv.org/abs/1811.00159) 
+In Web Search and Data Mining (WSDM), 2019.<br />
+[[Arxiv URL]](https://arxiv.org/abs/1811.00159) [[Talk Video]](https://www.youtube.com/watch?v=KyHUan_7YnQ)
 
 * **Decomposition for Time Series Forecasting and Anomaly Detection**<br />
 Sunav Choudhary, Gaurush Hiranandani, and Shiv Kumar Saini.<br />
