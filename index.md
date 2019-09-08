@@ -11,15 +11,16 @@ layout: default
 
 # About Me
 
-I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I worked at [Adobe Research, India](https://research.adobe.com/) for two years. I have pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/), where I began my Machine Learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick).
+I am a 3rd-year Ph.D. student working in Statistical Machine Learning. I am advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I worked at [Adobe Research, India](https://research.adobe.com/) for two years. I have pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/), where I began my Machine Learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick).
 
 # Ph.D. Research Internships
 
+* (Summers'19) I spent summers'19 at the dynamic office of [Amazon (A9) Research, Palo Alto](https://www.aboutamazon.com/research), where I was mentored by [Dr. Nikhil Rao](https://nikrao.github.io/) and [Dr. Sumeet Katariya](http://homepages.cae.wisc.edu/~sumeet/).
 * (Summers'18) I spent summers'18 at the wonderful office of [Microsoft Research, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I was mentored by [Dr. Prateek Jain](http://www.prateekjain.org/) and Dr. Ayush Choure.
 
 # Prior to Ph.D.
 
-* (June'15-July'17) I was a member of research staff at [Adobe Research, India](https://research.adobe.com/), where I mostly worked in [Time Series Analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) and Recommendation systems (paper submitted) and also explored many areas including [Augmented Reality](https://ieeexplore.ieee.org/document/8088451/), [Natural Language Processing](https://arxiv.org/abs/1706.09335), and Visualization (paper in preparation). However, all the projects had Artificial Intelligence or Machine Learning in action.
+* (June'15-July'17) I was a member of research staff at [Adobe Research, India](https://research.adobe.com/), where I mostly worked in [Time Series Analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) and [Recommendation systems](http://auai.org/uai2019/proceedings/papers/248.pdf) and also explored many areas including [Augmented Reality](https://ieeexplore.ieee.org/document/8088451/), [Natural Language Processing](https://arxiv.org/abs/1706.09335), and Visualization (paper to be completed someday). However, all the projects had Machine Learning in action.
 
 * (Summers'14) I spent summers'14 at [Adobe Research, India](https://research.adobe.com/), where I worked on building a (recommendation) module that inspires creative artist to initiate new art work. Due to properiotery nature of the system, publishing papers was not easy; however, we filed 2 patents from this work.
 
@@ -28,9 +29,9 @@ I am a 2nd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 # NEWS
 
-* (February 2018) Presented our paper [Clustered Monotone Transforms for Rating Factorization](https://www.youtube.com/watch?v=KyHUan_7YnQ) at International Conference on [Web Search and Data Mining](http://www.wsdm-conference.org/2019/).
-* (December 2018) Our paper [Performance Metric Elicitation from Pairwise Classifier Comparisons](https://arxiv.org/abs/1806.01827) to appear in International Conference on [Artificial Intelligence and Statistics (AISTATS)](https://www.aistats.org/).
-* (October 2018) Our paper [Clustered Monotone Transforms for Rating Factorization](https://arxiv.org/abs/1811.00159) to appear in International Conference on [Web Search and Data Mining](http://www.wsdm-conference.org/2019/).
+* (July 2019) [Harvineet](https://harvineet.github.io/) presented our paper on [Cascading Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank](http://auai.org/uai2019/proceedings/papers/248.pdf) at Conference on [Uncertainty in Artificial Intelligence](http://auai.org/uai2019/).
+* (April 2019) Presented our paper on [Performance Metric Elicitation from Pairwise Classifier Comparisons](http://proceedings.mlr.press/v89/hiranandani19a/hiranandani19a.pdf) at International Conference on [Artificial Intelligence and Statistics](https://www.aistats.org/aistats2019/).
+* (February 2019) Presented our paper on [Clustered Monotone Transforms for Rating Factorization](https://www.youtube.com/watch?v=KyHUan_7YnQ) at International Conference on [Web Search and Data Mining](http://www.wsdm-conference.org/2019/).
 * (May 2018) Presented our paper on [Sparse Decomposition of Time Series](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) at [SIAM International Conference on Data Mining (SDM), 2018](https://archive.siam.org/meetings/sdm18/) held in San Diego, USA.
 * (October 2017) Our paper on [Enhanced Digital Marketing using Augmented Reality](https://ieeexplore.ieee.org/document/8088451/) was presented by [Dr. Atanu Sinha](https://research.adobe.com/person/atanu-sinha/) at [International Symposium on Mixed and Augmented Reality (ISMAR), 2017](https://ismar2017.sciencesconf.org/) held in Nantes, France.
 

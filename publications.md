@@ -8,17 +8,9 @@ permalink: /publications/
 
 ## Submitted / Prepared Publications
 
-* **Eliciting Classification Performance Metrics**<br />
-Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
-Under review at a top-tier double blind conference.
-
 * **Recommendations using Multiple Side-Information**<br />
 Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.<br />
-Under review at a top-tier double blind conference.
-
-* **Online Diverse Learning to Rank from Partial-Click Feedback**<br />
-Prakhar Gupta\*, Gaurush Hiranandani\*, Harvineet Singh\*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
-[[Arxiv URL]](https://arxiv.org/abs/1811.00911)
+Paper prepared.
 
 ## Journal Publication
 
@@ -29,10 +21,19 @@ European Journal of Combinatorics, 2016.<br />
 
 ## Conference Publications
 
-* **Performance Metric Elicitation from  Pairwise Classifier Comparisons**<br />
+* **Multiclass Performance Metric Elicitation**<br />
 Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
-To appear in Artificial Intelligence and Statistics (AISTATS), 2019.<br />
-[[Arxiv URL]](https://arxiv.org/abs/1806.01827)
+To appear in Neural Information Processing Systems (NeurIPS), 2019.<br />
+
+* **Cascading Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank**<br />
+Gaurush Hiranandani\*, Harvineet Singh\*, Prakhar Gupta\*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
+In Uncertainty in Artificial Intelligence (UAI), 2019.<br />
+[[URL]](http://auai.org/uai2019/proceedings/papers/248.pdf)
+
+* **Performance Metric Elicitation from Pairwise Classifier Comparisons**<br />
+Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
+In Artificial Intelligence and Statistics (AISTATS), 2019.<br />
+[[URL]](http://proceedings.mlr.press/v89/hiranandani19a.html)
 
 * **Clustered Monotone Transforms for Rating Factorization**<br />
 Gaurush Hiranandani\*, Raghav Somani\*, Oluwasanmi Koyejo, Sreangsu Accharya.<br />
