@@ -53,7 +53,7 @@ International Symposium on Mixed and Augmented Reality (ISMAR), 2017.<br />
 * **Generating Appealing Brand Names**<br />
 Gaurush Hiranandani, Pranav Maneriker, and Harsh Jhamtani.<br />
 International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), 2017.<br />
-[[Arxiv URL]](https://arxiv.org/abs/1706.09335)
+[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-77116-8_45) [[Arxiv URL]](https://arxiv.org/abs/1706.09335)
 
 * **Summarizing Multimedia Content**<br />
 Natwar Modani, Pranav Maneriker, Gaurush Hiranandani, Atanu Sinha, Utpal, Vaishnavi Subramanian, and Shivani Gupta.<br />
