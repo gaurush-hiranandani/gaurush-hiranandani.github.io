@@ -25,6 +25,10 @@ European Journal of Combinatorics, 2016.<br />
 Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
 To appear in Neural Information Processing Systems (NeurIPS), 2019.<br />
 
+* **Online Bayesian Learning for E-commerce Query Reformulation**<br />
+Gaurush Hiranandani, Sumeet Katariya, Nikhil Rao, and Karthik Subbian.<br />
+To appear in Bayesian Deep Learning workshop at Neural Information Processing Systems (NeurIPS), 2019.<br />
+
 * **Cascading Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank**<br />
 Gaurush Hiranandani\*, Harvineet Singh\*, Prakhar Gupta\*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
 In Uncertainty in Artificial Intelligence (UAI), 2019.<br />
