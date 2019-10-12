@@ -42,7 +42,7 @@ In Artificial Intelligence and Statistics (AISTATS), 2019.<br />
 * **Clustered Monotone Transforms for Rating Factorization**<br />
 Gaurush Hiranandani\*, Raghav Somani\*, Oluwasanmi Koyejo, Sreangsu Accharya.<br />
 In Web Search and Data Mining (WSDM), 2019.<br />
-[[URL]](https://dl.acm.org/citation.cfm?id=3291005) [[Arxiv URL]](https://arxiv.org/abs/1811.00159) [[Talk Video]](https://www.youtube.com/watch?v=KyHUan_7YnQ)
+[[URL]](https://dl.acm.org/citation.cfm?id=3291005) [[Code]](https://github.com/RaghavSomani/CMTRF) [[Arxiv URL]](https://arxiv.org/abs/1811.00159) [[Talk Video]](https://www.youtube.com/watch?v=KyHUan_7YnQ)
 
 * **Decomposition for Time Series Forecasting and Anomaly Detection**<br />
 Sunav Choudhary, Gaurush Hiranandani, and Shiv Kumar Saini.<br />
