@@ -23,7 +23,8 @@ European Journal of Combinatorics, 2016.<br />
 
 * **Multiclass Performance Metric Elicitation**<br />
 Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
-To appear in Neural Information Processing Systems (NeurIPS), 2019.<br />
+In Neural Information Processing Systems (NeurIPS), 2019.<br />
+[[URL]](https://papers.nips.cc/paper/9133-multiclass-performance-metric-elicitation) [[Video, Poster, Code]](https://drive.google.com/drive/folders/1AWZ6xvSUwNGQYeYzI2yf-MYPvgnba8YJ?usp=sharing)
 
 * **Online Bayesian Learning for E-commerce Query Reformulation**<br />
 Gaurush Hiranandani, Sumeet Katariya, Nikhil Rao, and Karthik Subbian.<br />
