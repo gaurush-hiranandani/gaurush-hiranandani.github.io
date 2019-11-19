@@ -32,7 +32,7 @@ To appear in Bayesian Deep Learning workshop at Neural Information Processing Sy
 
 * **Cascading Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank**<br />
 Gaurush Hiranandani\*, Harvineet Singh\*, Prakhar Gupta\*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
-In Uncertainty in Artificial Intelligence (UAI), 2019.<br />
+In Uncertainty in Artificial Intelligence (UAI), 2019 **(Oral)**.<br />
 [[URL]](http://auai.org/uai2019/proceedings/papers/248.pdf)
 
 * **Performance Metric Elicitation from Pairwise Classifier Comparisons**<br />
