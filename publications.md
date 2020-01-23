@@ -28,7 +28,8 @@ In Neural Information Processing Systems (NeurIPS), 2019.<br />
 
 * **Online Bayesian Learning for E-commerce Query Reformulation**<br />
 Gaurush Hiranandani, Sumeet Katariya, Nikhil Rao, and Karthik Subbian.<br />
-To appear in Bayesian Deep Learning workshop at Neural Information Processing Systems (NeurIPS), 2019.<br />
+In Bayesian Deep Learning workshop at Neural Information Processing Systems (NeurIPS), 2019.<br />
+[[URL]](http://bayesiandeeplearning.org/2019/papers/31.pdf)
 
 * **Cascading Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank**<br />
 Gaurush Hiranandani\*, Harvineet Singh\*, Prakhar Gupta\*, Iftikhar Ahamath Burhanuddin, Zheng Wen, and Branislav Kveton.<br />
