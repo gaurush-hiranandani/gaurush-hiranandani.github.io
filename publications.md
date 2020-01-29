@@ -10,7 +10,7 @@ permalink: /publications/
 
 * **Recommendations using Multiple Side-Information**<br />
 Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.<br />
-Paper prepared.
+[[Arxiv]](https://arxiv.org/pdf/2001.10495.pdf)
 
 ## Journal Publication
 
