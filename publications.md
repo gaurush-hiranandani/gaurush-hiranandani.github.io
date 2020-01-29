@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Submitted / Prepared Publications
 
-* **Recommendations using Multiple Side-Information**<br />
+* **Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information**<br />
 Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.<br />
 [[Arxiv]](https://arxiv.org/pdf/2001.10495.pdf)
 
