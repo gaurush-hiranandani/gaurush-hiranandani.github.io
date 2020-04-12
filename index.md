@@ -29,6 +29,9 @@ I am a 3rd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 # NEWS
 
+* (March 2019) Awarded the prestigious [C.L. and Jane W.-S. Liu Award](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cl-and-jane-w-s-liu-award) for showing exceptional research promise. It is awarded to only student each year across batches.
+* (December 2019) [Presented](https://www.youtube.com/watch?v=UGs8EXkG3ig) our paper on [Mutliclass Performance Metric Elicitation](http://papers.neurips.cc/paper/9133-multiclass-performance-metric-elicitation) at Conference on [Neural Information Processing Systems](https://nips.cc/Conferences/2019).
+* (November 2019) Nominated by the Computer Science Department (first round) and then by the University of Illinois at Urbana-Champaign (second round) for one of the most competetive fellowships -- [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/). 
 * (July 2019) [Harvineet](https://harvineet.github.io/) presented our paper on [Cascading Linear Submodular Bandits: Accounting for Position Bias and Diversity in Online Learning to Rank](http://auai.org/uai2019/proceedings/papers/248.pdf) at Conference on [Uncertainty in Artificial Intelligence](http://auai.org/uai2019/).
 * (April 2019) Presented our paper on [Performance Metric Elicitation from Pairwise Classifier Comparisons](http://proceedings.mlr.press/v89/hiranandani19a/hiranandani19a.pdf) at International Conference on [Artificial Intelligence and Statistics](https://www.aistats.org/aistats2019/).
 * (February 2019) Presented our paper on [Clustered Monotone Transforms for Rating Factorization](https://www.youtube.com/watch?v=KyHUan_7YnQ) at International Conference on [Web Search and Data Mining](http://www.wsdm-conference.org/2019/).
