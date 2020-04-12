@@ -22,7 +22,7 @@ I am a 3rd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 * (June'15-July'17) I was a member of research staff at [Adobe Research, India](https://research.adobe.com/), where I mostly worked in [Time Series Analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) and [Recommendation systems](http://auai.org/uai2019/proceedings/papers/248.pdf) and also explored many areas including [Augmented Reality](https://ieeexplore.ieee.org/document/8088451/), [Natural Language Processing](https://arxiv.org/abs/1706.09335), and Visualization (paper to be completed someday). However, all the projects had Machine Learning in action.
 
-* (Summers'14) I spent summers'14 at [Adobe Research, India](https://research.adobe.com/), where I worked on building a (recommendation) module that inspires creative artist to initiate new art work. Due to properiotery nature of the system, publishing papers was not easy; however, we filed 2 patents from this work.
+[comment]: < * (Summers'14) I spent summers'14 at [Adobe Research, India](https://research.adobe.com/), where I worked on building a (recommendation) module that inspires creative artist to initiate new art work. Due to properiotery nature of the system, publishing papers was not easy; however, we filed 2 patents from this work. >
 
 * (Summers'13) At some point, I was really interested in Discrete Mathematics, especially, Combinatorics. For summers 2013, I got a wonderful opportunity to work with [Dr. Jean-Marc Schlenker](http://math.uni.lu/schlenker/) at the [University of Luxembourg](https://wwwen.uni.lu/). Under his guidance, I published my first siginificant [work](https://www.sciencedirect.com/science/article/pii/S0195669815001274) in the European Journal of Combinatorics. 
 
