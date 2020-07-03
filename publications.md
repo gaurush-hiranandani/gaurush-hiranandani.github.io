@@ -6,11 +6,15 @@ permalink: /publications/
 
 \* stands for equal contribution.
 
-## Submitted / Prepared Publications
+## Prepared Publications
+
+* **Fair Performance Metric Elicitation**<br />
+Gaurush Hiranandani, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
+[[Arxiv]](https://arxiv.org/abs/2006.12732)
 
 * **Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information**<br />
 Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.<br />
-[[Arxiv]](https://arxiv.org/pdf/2001.10495.pdf)
+[[Arxiv]](https://arxiv.org/abs/2001.10495)
 
 ## Journal Publication
 
@@ -20,6 +24,10 @@ European Journal of Combinatorics, 2016.<br />
 [[URL]](https://www.sciencedirect.com/science/article/pii/S0195669815001274)
 
 ## Conference Publications
+
+* **Optimization and Analysis of the pAp@k Metric for Recommender Systems**<br />
+Gaurush Hiranandani, Warut Vijitbenjaronk, Oluwasanmi Koyejo, and Prateek Jain.<br />
+In International Conference on Machine Learning (ICML), 2020.<br />
 
 * **Multiclass Performance Metric Elicitation**<br />
 Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
