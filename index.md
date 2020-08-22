@@ -15,6 +15,7 @@ I am a 3rd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 # Ph.D. Research Internships
 
+* (Summers'19) I spent summers'20 at the innovational office of [Google Research, Mountain View](https://research.google/) (remotely interned from Urbana due to Covid), where I was mentored by [Dr. Harikrishna Narasimhan](https://research.google/people/106252/) and [Dr. Mahdi Milani Fard](https://www.linkedin.com/in/mahdi-milani-fard-6924731a1/).
 * (Summers'19) I spent summers'19 at the dynamic office of [Amazon (A9) Research, Palo Alto](https://www.aboutamazon.com/research), where I was mentored by [Dr. Nikhil Rao](https://nikrao.github.io/) and [Dr. Sumeet Katariya](http://homepages.cae.wisc.edu/~sumeet/).
 * (Summers'18) I spent summers'18 at the wonderful office of [Microsoft Research, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I was mentored by [Dr. Prateek Jain](http://www.prateekjain.org/) and Dr. Ayush Choure.
 
@@ -29,6 +30,7 @@ I am a 3rd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 # NEWS
 
+* (July 2020) [Presented](https://icml.cc/virtual/2020/poster/5928) our paper on [Optimization and Analysis of the pAp@k Metric for Recommender Systems](https://proceedings.icml.cc/book/2020/hash/d6723e7cd6735df68d1ce4c704c29a04) at Conference on [International Conference on Machine Learning](https://icml.cc/).
 * (March 2019) Awarded the prestigious [C.L. and Jane W.-S. Liu Award](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cl-and-jane-w-s-liu-award) for showing exceptional research promise. It is awarded to only one student each year across batches.
 * (December 2019) [Presented](https://www.youtube.com/watch?v=UGs8EXkG3ig) our paper on [Mutliclass Performance Metric Elicitation](http://papers.neurips.cc/paper/9133-multiclass-performance-metric-elicitation) at Conference on [Neural Information Processing Systems](https://nips.cc/Conferences/2019).
 * (November 2019) Nominated by the Computer Science Department (first round) and then by the University of Illinois at Urbana-Champaign (second round) for one of the most competetive fellowships -- [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/). 
