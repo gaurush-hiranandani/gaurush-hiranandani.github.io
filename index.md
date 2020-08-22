@@ -15,7 +15,7 @@ I am a 3rd-year Ph.D. student working in Statistical Machine Learning. I am advi
 
 # Ph.D. Research Internships
 
-* (Summers'19) I spent summers'20 at the innovational office of [Google Research, Mountain View](https://research.google/) (remotely interned from Urbana due to Covid), where I was mentored by [Dr. Harikrishna Narasimhan](https://research.google/people/106252/) and [Dr. Mahdi Milani Fard](https://www.linkedin.com/in/mahdi-milani-fard-6924731a1/).
+* (Summers'19) I spent summers'20 at the innovative office of [Google Research, Mountain View](https://research.google/) (remotely interned from Urbana due to Covid), where I was mentored by [Dr. Harikrishna Narasimhan](https://research.google/people/106252/) and [Dr. Mahdi Milani Fard](https://www.linkedin.com/in/mahdi-milani-fard-6924731a1/).
 * (Summers'19) I spent summers'19 at the dynamic office of [Amazon (A9) Research, Palo Alto](https://www.aboutamazon.com/research), where I was mentored by [Dr. Nikhil Rao](https://nikrao.github.io/) and [Dr. Sumeet Katariya](http://homepages.cae.wisc.edu/~sumeet/).
 * (Summers'18) I spent summers'18 at the wonderful office of [Microsoft Research, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I was mentored by [Dr. Prateek Jain](http://www.prateekjain.org/) and Dr. Ayush Choure.
 
