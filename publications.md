@@ -25,7 +25,7 @@ European Journal of Combinatorics, 2016.<br />
 
 * **Fair Performance Metric Elicitation**<br />
 Gaurush Hiranandani, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
-To appear in Neural Information Processing Systems (NeurIPS), 2020.<br />
+In Neural Information Processing Systems (NeurIPS), 2020.<br />
 [[Arxiv]](https://arxiv.org/abs/2006.12732)
 
 * **Optimization and Analysis of the pAp@k Metric for Recommender Systems**<br />
