@@ -6,8 +6,8 @@ permalink: /awards/
 # Awards and Honors
 
 * [C.L. and Jane W.-S. Liu Award:](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cl-and-jane-w-s-liu-award) For showing exceptional research promise. Awarded to only one student across all batches (2020).
-* Google PhD Fellowship Nomination: Selected across all departments to represent UIUC for the fellowship (2019-20).
-* One among the top 400 reviewers for NeurIPS 2019.
+* **Best Reviewer**: One among the top reviewers for NeurIPS 2019, ICML 2020, and NeurIPS 2020.
+* **Google PhD Fellowship Nomination:** Selected across all departments to represent UIUC for the fellowship (2019-20).
 * [Bhagwan Das Sanghi Memorial Gold Medal:](http://www.iitk.ac.in/doaa/convocation/data/convocation20152/48convocation2015_awards_and_medals.pdf#page=5) For best academic performance in Mathematics and Statistics Department (2015)
 * [Suman Gupta Gold Medal:](http://www.iitk.ac.in/doaa/convocation/data/convocation20152/48convocation2015_awards_and_medals.pdf#page=5) For highest CGPA in Mathematics and Scientific Computing M.Sc.(Int.) program (2015)
 * [Project Proficiency Medal:](http://www.iitk.ac.in/doaa/convocation/data/convocation20152/48convocation2015_awards_and_medals.pdf#page=3) For best project in Mathematics and Scientific Computing M.Sc.(Int.) Program (2015)
