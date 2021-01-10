@@ -30,7 +30,7 @@ I am a 4th-year Ph.D. student working in statistical machine learning with a foc
 
 # NEWS
 
-* (December 2020) [Presented](https://neurips.cc/virtual/2020/protected/poster_7ec2442aa04c157590b2fa1a7d093a33.html) our paper on [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/hash/7ec2442aa04c157590b2fa1a7d093a33-Abstract.html) at the [Neural Information Processing Systems](https://nips.cc/Conferences/2020).
+* (December 2020) [Presented](https://neurips.cc/virtual/2020/protected/poster_7ec2442aa04c157590b2fa1a7d093a33.html) our paper on [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/hash/7ec2442aa04c157590b2fa1a7d093a33-Abstract.html) at the Conference on [Neural Information Processing Systems](https://nips.cc/Conferences/2020).
 * (July 2020) [Presented](https://icml.cc/virtual/2020/poster/5928) our paper on [Optimization and Analysis of the pAp@k Metric for Recommender Systems](https://proceedings.icml.cc/book/2020/hash/d6723e7cd6735df68d1ce4c704c29a04) at the [International Conference on Machine Learning](https://icml.cc/).
 * (March 2019) Awarded the prestigious [C.L. and Jane W.-S. Liu Award](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cl-and-jane-w-s-liu-award) for showing exceptional research promise. It is awarded to only one student each year across batches.
 * (December 2019) [Presented](https://www.youtube.com/watch?v=UGs8EXkG3ig) our paper on [Mutliclass Performance Metric Elicitation](http://papers.neurips.cc/paper/9133-multiclass-performance-metric-elicitation) at the Conference on [Neural Information Processing Systems](https://nips.cc/Conferences/2019).
