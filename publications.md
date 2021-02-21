@@ -14,6 +14,16 @@ Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi 
 [[Arxiv]](https://arxiv.org/abs/2001.10495)
 -->
 
+## Prepared Publications
+
+* **Optimizing Black-box Metrics with Iterative Example Weighting**<br />
+Gaurush Hiranandani, Jatin Mathur, Oluwasanmi Koyejo, Mahdi Milani Fard, Harikrishna Narasimhan.<br />
+[[Arxiv]](https://arxiv.org/abs/2102.09492)
+
+* **Quadratic Metric Elicitation with Application to Fairness**<br />
+Gaurush Hiranandani, Jatin Mathur, Harikrishna Narasimhan, Oluwasanmi Koyejo.<br />
+[[Arxiv]](https://arxiv.org/abs/2011.01516)
+
 ## Journal Publication
 
 * **Small Circulant Complex Hadamard Matrices of Butson Type**<br />
