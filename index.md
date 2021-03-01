@@ -11,7 +11,7 @@ layout: default
 
 # About Me
 
-I am a 4th-year Ph.D. student working in statistical machine learning with a focus on metric elicitation, ranking, and recommendation systems. I am advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I worked at [Adobe Research, India](https://research.adobe.com/) for two years. I have pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/), where I began my machine learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick).
+I am a Ph.D. candidate working in statistical machine learning with a focus on metric elicitation and optimization, fairness, ranking, and recommendation systems. I am advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I worked at [Adobe Research, India](https://research.adobe.com/) for two years. I have pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/), where I began my machine learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick).
 
 # Ph.D. Research Internships
 
