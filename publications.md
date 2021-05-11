@@ -37,11 +37,12 @@ In International Conference on Machine Learning (ICML), 2021.<br />
 * **Fair Performance Metric Elicitation**<br />
 Gaurush Hiranandani, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
 In Neural Information Processing Systems (NeurIPS), 2020.<br />
-[[Arxiv]](https://arxiv.org/abs/2006.12732)
+[[URL]](https://papers.nips.cc/paper/2020/hash/7ec2442aa04c157590b2fa1a7d093a33-Abstract.html) [[Arxiv]](https://arxiv.org/abs/2006.12732)
 
 * **Optimization and Analysis of the pAp@k Metric for Recommender Systems**<br />
 Gaurush Hiranandani, Warut Vijitbenjaronk, Oluwasanmi Koyejo, and Prateek Jain.<br />
 In International Conference on Machine Learning (ICML), 2020.<br />
+[[URL]](http://proceedings.mlr.press/v119/hiranandani20a.html) [[Code]](https://github.com/gaurush-hiranandani/pap-k)
 
 * **Multiclass Performance Metric Elicitation**<br />
 Gaurush Hiranandani, Shant Boodaghians, Ruta Mehta, and Oluwasanmi Koyejo.<br />
