@@ -18,7 +18,7 @@ Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi 
 
 * **Quadratic Metric Elicitation with Application to Fairness**<br />
 Gaurush Hiranandani, Jatin Mathur, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
-[[Arxiv]](https://arxiv.org/abs/2011.01516)
+[[Arxiv]](https://arxiv.org/abs/2011.01516)[[Code]](https://github.com/koyejolab/qme)
 
 ## Journal Publication
 
@@ -32,7 +32,7 @@ European Journal of Combinatorics, 2016.<br />
 * **Optimizing Black-box Metrics with Iterative Example Weighting**<br />
 Gaurush Hiranandani, Jatin Mathur, Oluwasanmi Koyejo, Mahdi Milani Fard, and Harikrishna Narasimhan.<br />
 In International Conference on Machine Learning (ICML), 2021.<br />
-[[Arxiv]](https://arxiv.org/abs/2102.09492)
+[[URL]](http://proceedings.mlr.press/v139/hiranandani21a.html)[[Code]](https://github.com/koyejolab/fweg)[[Arxiv]](https://arxiv.org/abs/2102.09492)
 
 * **Fair Performance Metric Elicitation**<br />
 Gaurush Hiranandani, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
