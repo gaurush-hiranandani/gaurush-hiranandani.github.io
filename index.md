@@ -54,8 +54,6 @@ I an Applied Scientist (II) at Amazon (Search Science and AI). I received my Ph.
 
 * (Summers'13) At some point, I was really interested in discrete mathematics, especially, combinatorics. For summers 2013, I got a wonderful opportunity to work with [Dr. Jean-Marc Schlenker](http://math.uni.lu/schlenker/) at the [University of Luxembourg](https://wwwen.uni.lu/). Under his guidance, I published my first siginificant [work](https://www.sciencedirect.com/science/article/pii/S0195669815001274) in the European Journal of Combinatorics. 
 
-[comment]: < 
+[comment]: < # Teaching >
 
-# Teaching
-
-* Teaching Assistant for [CS 446: Machine Learning, Fall 2017](https://relate.cs.illinois.edu/course/cs446-fa17) >
+[comment]: < * Teaching Assistant for [CS 446: Machine Learning, Fall 2017](https://relate.cs.illinois.edu/course/cs446-fa17) >
