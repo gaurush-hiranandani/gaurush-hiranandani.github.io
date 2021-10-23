@@ -16,7 +16,7 @@ Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi 
 
 ## Prepared Publications
 
-* **Quadratic Metric Elicitation with Application to Fairness**<br />
+* **Quadratic Metric Elicitation for Fairness and Beyond**<br />
 Gaurush Hiranandani, Jatin Mathur, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
 [[Arxiv]](https://arxiv.org/abs/2011.01516) [[Code]](https://github.com/koyejolab/qme)
 
