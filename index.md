@@ -11,7 +11,7 @@ layout: default
 
 # About Me
 
-I an Applied Scientist (II) at Amazon (Search Science and AI). I received my Ph.D. in Computer Science from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), where I was advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/) and worked at [Adobe Research, India](https://research.adobe.com/) for two years. I primarily work in statistical machine learning with a focus on metric elicitation and optimization, fairness, ranking, and recommender systems. 
+I am an Applied Scientist (II) at Amazon (Search Science and AI). I received my Ph.D. in Computer Science from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), where I was advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/) and worked at [Adobe Research, India](https://research.adobe.com/) for two years. I primarily work in statistical machine learning with a focus on metric elicitation and optimization, fairness, ranking, and recommender systems. 
 
 [comment]: < I have pursued , where I began my machine learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick). >
 
