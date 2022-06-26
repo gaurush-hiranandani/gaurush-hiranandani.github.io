@@ -12,13 +12,11 @@ permalink: /publications/
 * **Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information**<br />
 Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.<br />
 [[Arxiv]](https://arxiv.org/abs/2001.10495)
--->
-
-## Prepared Publications
 
 * **Quadratic Metric Elicitation for Fairness and Beyond**<br />
 Gaurush Hiranandani, Jatin Mathur, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
 [[Arxiv]](https://arxiv.org/abs/2011.01516) [[Code]](https://github.com/koyejolab/qme)
+-->
 
 ## Journal Publication
 
@@ -28,6 +26,11 @@ European Journal of Combinatorics, 2016.<br />
 [[URL]](https://www.sciencedirect.com/science/article/pii/S0195669815001274)
 
 ## Conference Publications
+
+* **Quadratic Metric Elicitation for Fairness and Beyond**<br />
+Gaurush Hiranandani, Jatin Mathur, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
+In Uncertainty in Artificial Intelligence (UAI), 2022 **(Oral)**.<br />
+[[Arxiv]](https://arxiv.org/abs/2011.01516) [[Code]](https://github.com/koyejolab/qme)
 
 * **Optimizing Black-box Metrics with Iterative Example Weighting**<br />
 Gaurush Hiranandani, Jatin Mathur, Oluwasanmi Koyejo, Mahdi Milani Fard, and Harikrishna Narasimhan.<br />
