@@ -13,9 +13,6 @@ permalink: /publications/
 Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.<br />
 [[Arxiv]](https://arxiv.org/abs/2001.10495)
 
-* **Quadratic Metric Elicitation for Fairness and Beyond**<br />
-Gaurush Hiranandani, Jatin Mathur, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
-[[Arxiv]](https://arxiv.org/abs/2011.01516) [[Code]](https://github.com/koyejolab/qme)
 -->
 
 ## Journal Publication
@@ -26,6 +23,10 @@ European Journal of Combinatorics, 2016.<br />
 [[URL]](https://www.sciencedirect.com/science/article/pii/S0195669815001274)
 
 ## Conference Publications
+
+* **Metric Elicitation; Moving from Theory to Practice**<br />
+Safinah Ali\*, Sohini Upadhyay\*, Gaurush Hiranandani, Elena Glassman, Oluwasanmi Koyejo.<br />
+In Human-Centered AI workshop at Neural Information Processing Systems (NeurIPS), 2022.
 
 * **Quadratic Metric Elicitation for Fairness and Beyond**<br />
 Gaurush Hiranandani, Jatin Mathur, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
