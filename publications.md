@@ -15,14 +15,12 @@ Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi 
 
 -->
 
-## Journal Publication
+## Publications
 
-* **Small Circulant Complex Hadamard Matrices of Butson Type**<br />
-Gaurush Hiranandani, and Jean-Marc Schlenker.<br />
-European Journal of Combinatorics, 2016.<br />
-[[URL]](https://www.sciencedirect.com/science/article/pii/S0195669815001274)
-
-## Conference Publications
+* **ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding**<br />
+Zixuan Liu, Gaurush Hiranandani, Kun Qian, Edward W. Huang, Yi Xu, Belinda Zeng, Karthik Subbian, and Sheng Wang.<br />
+In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM,2023).<br />
+[[URL]](https://dl.acm.org/doi/10.1145/3583780.3614887)
 
 * **Metric Elicitation; Moving from Theory to Practice**<br />
 Safinah Ali\*, Sohini Upadhyay\*, Gaurush Hiranandani, Elena Glassman, Oluwasanmi Koyejo.<br />
@@ -83,17 +81,24 @@ Gaurush Hiranandani, Kumar Ayush, Atanu Sinha, Sai Varun Reddy Maram, Chinnaobir
 International Symposium on Mixed and Augmented Reality (ISMAR), 2017.<br />
 [[URL]](https://ieeexplore.ieee.org/document/8088451/)
 
-* **Generating Appealing Brand Names**<br />
-Gaurush Hiranandani, Pranav Maneriker, and Harsh Jhamtani.<br />
-International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), 2017.<br />
-[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-77116-8_45) [[Arxiv URL]](https://arxiv.org/abs/1706.09335)
+* **Small Circulant Complex Hadamard Matrices of Butson Type**<br />
+Gaurush Hiranandani, and Jean-Marc Schlenker.<br />
+European Journal of Combinatorics, 2016.<br />
+[[URL]](https://www.sciencedirect.com/science/article/pii/S0195669815001274)
 
 * **Summarizing Multimedia Content**<br />
 Natwar Modani, Pranav Maneriker, Gaurush Hiranandani, Atanu Sinha, Utpal, Vaishnavi Subramanian, and Shivani Gupta.<br />
 International Conference on Web Information Systems Engineering (WISE), 2016.<br />
 [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-48743-4_27)
 
+<!---
+* **Generating Appealing Brand Names**<br />
+Gaurush Hiranandani, Pranav Maneriker, and Harsh Jhamtani.<br />
+International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), 2017.<br />
+[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-77116-8_45) [[Arxiv URL]](https://arxiv.org/abs/1706.09335)
+
 * **Improved Classification and Reconstruction by Introducing Independence and Randomization in Deep Neural Networks**<br />
 Gaurush Hiranandani, and Harish Karnick.<br />
 Digital Image Computing: Techniques and Applications (DICTA), 2015.<br />
 [[URL]](https://ieeexplore.ieee.org/document/7371270/)
+-->
