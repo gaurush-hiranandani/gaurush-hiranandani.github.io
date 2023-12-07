@@ -19,7 +19,7 @@ Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi 
 
 * **ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding**<br />
 Zixuan Liu, Gaurush Hiranandani, Kun Qian, Edward W. Huang, Yi Xu, Belinda Zeng, Karthik Subbian, and Sheng Wang.<br />
-In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM,2023).<br />
+In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM, 2023).<br />
 [[URL]](https://dl.acm.org/doi/10.1145/3583780.3614887)
 
 * **Metric Elicitation; Moving from Theory to Practice**<br />
