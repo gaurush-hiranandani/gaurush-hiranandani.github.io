@@ -1,3 +1,9 @@
+---
+layout: page
+title: Patents
+permalink: /patents/
+---
+
 1. **Gaurush Hiranandani**, Sai Varun Reddy Maram, Kumar Ayush, Chinnaobireddy Varsha, and Siddhant Jain. Product Recommendations Based on Augmented Reality Viewpoints. *US62/415332*. **(Filed in multiple countries)**
 
 2. **Gaurush Hiranandani**, Chinnaobireddy Varsha, Sai Varun Reddy Maram, Kumar Ayush, and Atanu R. Sinha. Identifying Augmented Reality Visuals Influencing User Behavior in Virtual-Commerce Environments. *US15/433,834*.

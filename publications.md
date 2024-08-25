@@ -16,11 +16,12 @@ In Proceedings of the 32nd ACM International Conference on Information and Knowl
 * **Metric Elicitation; Moving from Theory to Practice**<br />
 Safinah Ali\*, Sohini Upadhyay\*, Gaurush Hiranandani, Elena Glassman, Oluwasanmi Koyejo.<br />
 In Human-Centered AI workshop at Neural Information Processing Systems (NeurIPS), 2022.
+[[URL]](https://arxiv.org/abs/2212.03495)
 
 * **Quadratic Metric Elicitation for Fairness and Beyond**<br />
 Gaurush Hiranandani, Jatin Mathur, Harikrishna Narasimhan, and Oluwasanmi Koyejo.<br />
 In Uncertainty in Artificial Intelligence (UAI), 2022 **(Oral)**.<br />
-[[Arxiv]](https://arxiv.org/abs/2011.01516) [[Code]](https://github.com/koyejolab/qme)
+[[URL]](https://proceedings.mlr.press/v180/hiranandani22a.html) [[Code]](https://github.com/koyejolab/qme)
 
 * **Optimizing Black-box Metrics with Iterative Example Weighting**<br />
 Gaurush Hiranandani, Jatin Mathur, Oluwasanmi Koyejo, Mahdi Milani Fard, and Harikrishna Narasimhan.<br />
