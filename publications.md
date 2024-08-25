@@ -6,15 +6,6 @@ permalink: /publications/
 
 \* stands for equal contribution.
 
-<!---
-## Prepared Publications
-
-* **Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information**<br />
-Gaurush Hiranandani, Amar Budhiraja, Navya Yarrabelly, Ayush Choure, Oluwasanmi Koyejo and Prateek Jain.<br />
-[[Arxiv]](https://arxiv.org/abs/2001.10495)
-
--->
-
 ## Publications
 
 * **ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding**<br />
@@ -90,15 +81,3 @@ European Journal of Combinatorics, 2016.<br />
 Natwar Modani, Pranav Maneriker, Gaurush Hiranandani, Atanu Sinha, Utpal, Vaishnavi Subramanian, and Shivani Gupta.<br />
 International Conference on Web Information Systems Engineering (WISE), 2016.<br />
 [[URL]](https://link.springer.com/chapter/10.1007/978-3-319-48743-4_27)
-
-<!---
-* **Generating Appealing Brand Names**<br />
-Gaurush Hiranandani, Pranav Maneriker, and Harsh Jhamtani.<br />
-International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), 2017.<br />
-[[URL]](https://link.springer.com/chapter/10.1007/978-3-319-77116-8_45) [[Arxiv URL]](https://arxiv.org/abs/1706.09335)
-
-* **Improved Classification and Reconstruction by Introducing Independence and Randomization in Deep Neural Networks**<br />
-Gaurush Hiranandani, and Harish Karnick.<br />
-Digital Image Computing: Techniques and Applications (DICTA), 2015.<br />
-[[URL]](https://ieeexplore.ieee.org/document/7371270/)
--->
