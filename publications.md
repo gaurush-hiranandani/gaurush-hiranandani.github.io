@@ -15,7 +15,7 @@ In Proceedings of the 32nd ACM International Conference on Information and Knowl
 
 * **Metric Elicitation; Moving from Theory to Practice**<br />
 Safinah Ali\*, Sohini Upadhyay\*, Gaurush Hiranandani, Elena Glassman, Oluwasanmi Koyejo.<br />
-In Human-Centered AI workshop at Neural Information Processing Systems (NeurIPS), 2022.
+In Human-Centered AI workshop at Neural Information Processing Systems (NeurIPS), 2022.<br />
 [[URL]](https://arxiv.org/abs/2212.03495)
 
 * **Quadratic Metric Elicitation for Fairness and Beyond**<br />
