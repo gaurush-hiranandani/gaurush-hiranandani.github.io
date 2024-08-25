@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[CV](./assets/docs/cv_extended.pdf){: .btn}
+[//]: <[CV](./assets/docs/cv_extended.pdf){: .btn}>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Publications](./publications.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Awards](./awards.md){: .btn}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](./projects.md){: .btn}
@@ -11,18 +11,18 @@ layout: default
 
 # About Me
 
-I am an Applied Scientist (II) at Amazon (Search Science and AI). I received my Ph.D. in Computer Science from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), where I was advised by [Prof. Sanmi Koyejo](http://sanmi.cs.illinois.edu/). Prior to joining the Ph.D. program, I pursued integrated masters in Mathematics and Scientific Computing from [IIT Kanpur](http://www.iitk.ac.in/) and worked at [Adobe Research, India](https://research.adobe.com/) for two years. I primarily work in statistical machine learning with a focus on metric elicitation and optimization, fairness, ranking, and recommender systems. 
+I am currently an Applied Scientist at AWS AI Labs, with over five years of industry experience as applied/research scientist. Before this role, I gained valuable experience working with Amazon Search (A9) and [Adobe Research](https://research.adobe.com/). I hold a Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign (UIUC), where I had the privilege of being advised by [Prof. Sanmi Koyejo](https://cs.stanford.edu/~sanmi/). Prior to my doctoral studies, I completed an integrated master's degree in Mathematics and Scientific Computing from the Indian Institute of Technology Kanpur. My research primarily focuses on statistical machine learning, particularly in the areas of preference elicitation, personalization of large language models, recommender systems, and optimization.
 
-[comment]: < I have pursued , where I began my machine learning journey with [Prof. Harish Karnick](http://www.iitk.ac.in/new/dr-harish-karnick). >
+Please email me for my latest CV.
 
-# NEWS
+[comment]: <# NEWS>
 
-* (September 2021) Joined Amazon as an applied scientist
-* (August 2021) Defended Ph.D. on "Classification Performance Metric Elicitation and its Applications"
-* (July 2021) [Presented](https://icml.cc/media/icml-2021/Slides/9325.pdf) our paper on [Optimizing Black-box Metrics with Iterative Example Weighting](https://proceedings.mlr.press/v139/hiranandani21a.html) at the [International Conference on Machine Learning](https://icml.cc/).
-* (December 2020) [Presented](https://neurips.cc/virtual/2020/protected/poster_7ec2442aa04c157590b2fa1a7d093a33.html) our paper on [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/hash/7ec2442aa04c157590b2fa1a7d093a33-Abstract.html) at the Conference on [Neural Information Processing Systems](https://nips.cc/Conferences/2020).
-* (July 2020) [Presented](https://icml.cc/virtual/2020/poster/5928) our paper on [Optimization and Analysis of the pAp@k Metric for Recommender Systems](https://proceedings.icml.cc/book/2020/hash/d6723e7cd6735df68d1ce4c704c29a04) at the [International Conference on Machine Learning](https://icml.cc/).
-* (March 2019) Awarded the prestigious [C.L. and Jane W.-S. Liu Award](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cl-and-jane-w-s-liu-award) for showing exceptional research promise. It is awarded to only one student each year across batches.
+[comment]: <* (September 2021) Joined Amazon as an applied scientist>
+[comment]: <* (August 2021) Defended Ph.D. on "Classification Performance Metric Elicitation and its Applications">
+[comment]: <* (July 2021) [Presented](https://icml.cc/media/icml-2021/Slides/9325.pdf) our paper on [Optimizing Black-box Metrics with Iterative Example Weighting](https://proceedings.mlr.press/v139/hiranandani21a.html) at the [International Conference on Machine Learning](https://icml.cc/).>
+[comment]: <* (December 2020) [Presented](https://neurips.cc/virtual/2020/protected/poster_7ec2442aa04c157590b2fa1a7d093a33.html) our paper on [Fair Performance Metric Elicitation](https://papers.nips.cc/paper/2020/hash/7ec2442aa04c157590b2fa1a7d093a33-Abstract.html) at the Conference on [Neural Information Processing Systems](https://nips.cc/Conferences/2020).>
+[comment]: <* (July 2020) [Presented](https://icml.cc/virtual/2020/poster/5928) our paper on [Optimization and Analysis of the pAp@k Metric for Recommender Systems](https://proceedings.icml.cc/book/2020/hash/d6723e7cd6735df68d1ce4c704c29a04) at the [International Conference on Machine Learning](https://icml.cc/).>
+[comment]: <* (March 2019) Awarded the prestigious [C.L. and Jane W.-S. Liu Award](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cl-and-jane-w-s-liu-award) for showing exceptional research promise. It is awarded to only one student each year across batches.>
 
 [comment]: < * (December 2019) [Presented](https://www.youtube.com/watch?v=UGs8EXkG3ig) our paper on [Mutliclass Performance Metric Elicitation](http://papers.neurips.cc/paper/9133-multiclass-performance-metric-elicitation) at the Conference on [Neural Information Processing Systems](https://nips.cc/Conferences/2019). >
 
@@ -46,13 +46,13 @@ I am an Applied Scientist (II) at Amazon (Search Science and AI). I received my 
 
 [comment]: < * (Summers'18) I spent summers'18 at the wonderful office of [Microsoft Research, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I was mentored by [Dr. Prateek Jain](http://www.prateekjain.org/) and Dr. Ayush Choure. >
 
-# Prior to Ph.D.
+[comment]: <# Prior to Ph.D.>
 
-* (June'15-July'17) I was a member of research staff at [Adobe Research, India](https://research.adobe.com/), where I mostly worked in [time series analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) and [recommender systems](http://auai.org/uai2019/proceedings/papers/248.pdf) and also explored many areas including [augmented reality](https://ieeexplore.ieee.org/document/8088451/), [natural language processing](https://arxiv.org/abs/1706.09335), and visualization (paper to be completed someday). However, all the projects had machine learning in action.
+[comment]: <* (June'15-July'17) I was a member of research staff at [Adobe Research, India](https://research.adobe.com/), where I mostly worked in [time series analysis](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.59) and [recommender systems](http://auai.org/uai2019/proceedings/papers/248.pdf) and also explored many areas including [augmented reality](https://ieeexplore.ieee.org/document/8088451/), [natural language processing](https://arxiv.org/abs/1706.09335), and visualization (paper to be completed someday). However, all the projects had machine learning in action.>
 
 [comment]: < * (Summers'14) I spent summers'14 at [Adobe Research, India](https://research.adobe.com/), where I worked on building a (recommendation) module that inspires creative artist to initiate new art work. Due to properiotery nature of the system, publishing papers was not easy; however, we filed 2 patents from this work. >
 
-* (Summers'13) At some point, I was really interested in discrete mathematics, especially, combinatorics. For summers 2013, I got a wonderful opportunity to work with [Dr. Jean-Marc Schlenker](http://math.uni.lu/schlenker/) at the [University of Luxembourg](https://wwwen.uni.lu/). Under his guidance, I published my first siginificant [work](https://www.sciencedirect.com/science/article/pii/S0195669815001274) in the European Journal of Combinatorics. 
+[comment]: <* (Summers'13) At some point, I was really interested in discrete mathematics, especially, combinatorics. For summers 2013, I got a wonderful opportunity to work with [Dr. Jean-Marc Schlenker](http://math.uni.lu/schlenker/) at the [University of Luxembourg](https://wwwen.uni.lu/). Under his guidance, I published my first siginificant [work](https://www.sciencedirect.com/science/article/pii/S0195669815001274) in the European Journal of Combinatorics.>
 
 [comment]: < # Teaching >
 
