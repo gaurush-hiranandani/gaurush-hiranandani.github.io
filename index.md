@@ -15,4 +15,4 @@ I hold a Ph.D. in Computer Science from the University of Illinois at Urbana-Cha
 
 My research focuses on statistical machine learning, with an emphasis on preference elicitation, personalization of large language models, recommender systems, and black-box model optimization. I am passionate about developing scalable and efficient algorithms that enhance decision-making and user experiences.
 
-Please email me for my latest CV at firstname(dot)lastname@gmail.com
+Please email me for my latest CV at firstname(dot)lastname(at)gmail.com
