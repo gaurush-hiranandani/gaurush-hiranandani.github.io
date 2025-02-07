@@ -8,6 +8,11 @@ permalink: /publications/
 
 ## Publications
 
+* **Comparing Few to Rank Many: Active Human Preference Learning using Randomized Frank-Wolfe**<br />
+Gaurush Hiranandani\*, Kiran Koshy Thekumparampil\*, Kousha Kalantari, Shoham Sabach, and Branislav Kveton.<br />
+Under review.<br />
+[[Arxiv]](https://arxiv.org/pdf/2412.19396)
+
 * **ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding**<br />
 Zixuan Liu, Gaurush Hiranandani, Kun Qian, Edward W. Huang, Yi Xu, Belinda Zeng, Karthik Subbian, and Sheng Wang.<br />
 In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM, 2023).<br />
