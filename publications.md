@@ -8,10 +8,14 @@ permalink: /publications/
 
 ## Publications
 
+* **Logits are All We Need to Adapt Closed Models**<br />
+Gaurush Hiranandani, Haolun Wu, Subhojyoti Mukherjee, and Sanmi Koyejo.<br />
+Under review.<br />
+
 * **Comparing Few to Rank Many: Active Human Preference Learning using Randomized Frank-Wolfe**<br />
 Gaurush Hiranandani\*, Kiran Koshy Thekumparampil\*, Kousha Kalantari, Shoham Sabach, and Branislav Kveton.<br />
 Under review.<br />
-[[Arxiv]](https://arxiv.org/pdf/2412.19396)
+[[Arxiv]](https://arxiv.org/abs/2412.19396)
 
 * **ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding**<br />
 Zixuan Liu, Gaurush Hiranandani, Kun Qian, Edward W. Huang, Yi Xu, Belinda Zeng, Karthik Subbian, and Sheng Wang.<br />
