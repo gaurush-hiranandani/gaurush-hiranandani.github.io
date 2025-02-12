@@ -11,6 +11,7 @@ permalink: /publications/
 * **Logits are All We Need to Adapt Closed Models**<br />
 Gaurush Hiranandani, Haolun Wu, Subhojyoti Mukherjee, and Sanmi Koyejo.<br />
 Under review.<br />
+[[Arxiv]](https://arxiv.org/abs/2502.06806)
 
 * **Comparing Few to Rank Many: Active Human Preference Learning using Randomized Frank-Wolfe**<br />
 Gaurush Hiranandani\*, Kiran Koshy Thekumparampil\*, Kousha Kalantari, Shoham Sabach, and Branislav Kveton.<br />
