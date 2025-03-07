@@ -18,6 +18,10 @@ Gaurush Hiranandani\*, Kiran Koshy Thekumparampil\*, Kousha Kalantari, Shoham Sa
 Under review.<br />
 [[Arxiv]](https://arxiv.org/abs/2412.19396)
 
+* **An Efficient Plugin Method for Metric Optimization of Black-Box Models**<br />
+Siddartha Devic, Nurendra Choudhary, Anirudh Srinivasan, Sahika Genc, Branislav Kveton, Gaurush Hiranandani.<br />
+[[Arxiv]](https://arxiv.org/abs/2503.02119)
+
 * **ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding**<br />
 Zixuan Liu, Gaurush Hiranandani, Kun Qian, Edward W. Huang, Yi Xu, Belinda Zeng, Karthik Subbian, and Sheng Wang.<br />
 In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM, 2023).<br />
