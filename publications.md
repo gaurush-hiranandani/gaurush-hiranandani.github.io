@@ -10,13 +10,17 @@ permalink: /publications/
 
 * **Logits are All We Need to Adapt Closed Models**<br />
 Gaurush Hiranandani, Haolun Wu, Subhojyoti Mukherjee, and Sanmi Koyejo.<br />
-Under review.<br />
+In International Conference on Machine Learning (ICML), 2025.<br />
 [[Arxiv]](https://arxiv.org/abs/2502.06806)
 
 * **Comparing Few to Rank Many: Active Human Preference Learning using Randomized Frank-Wolfe**<br />
 Gaurush Hiranandani\*, Kiran Koshy Thekumparampil\*, Kousha Kalantari, Shoham Sabach, and Branislav Kveton.<br />
-Under review.<br />
+In International Conference on Machine Learning (ICML), 2025.<br />
 [[Arxiv]](https://arxiv.org/abs/2412.19396)
+
+* **Autoregressive Optimal Design for Language Models**<br />
+Rohan Deb, Kiran Koshy Thekumparampil, Kousha Kalantari, Gaurush Hiranandani, Shoham Sabach, and Branislav Kveton.<br />
+In International Conference on Machine Learning (ICML), 2025.<br />
 
 * **An Efficient Plugin Method for Metric Optimization of Black-Box Models**<br />
 Siddartha Devic, Nurendra Choudhary, Anirudh Srinivasan, Sahika Genc, Branislav Kveton, Gaurush Hiranandani.<br />
