@@ -11,16 +11,17 @@ permalink: /publications/
 * **Logits are All We Need to Adapt Closed Models**<br />
 Gaurush Hiranandani, Haolun Wu, Subhojyoti Mukherjee, and Sanmi Koyejo.<br />
 In International Conference on Machine Learning (ICML), 2025.<br />
-[[Arxiv]](https://arxiv.org/abs/2502.06806)
+[[URL]](https://proceedings.mlr.press/v267/hiranandani25a.html) [[Arxiv]](https://arxiv.org/abs/2502.06806)
 
-* **Comparing Few to Rank Many: Active Human Preference Learning using Randomized Frank-Wolfe**<br />
-Gaurush Hiranandani\*, Kiran Koshy Thekumparampil\*, Kousha Kalantari, Shoham Sabach, and Branislav Kveton.<br />
+* **Comparing Few to Rank Many: Active Human Preference Learning Using Randomized Frank-Wolfe Method**<br />
+Kiran Koshy Thekumparampil, Gaurush Hiranandani, Kousha Kalantari, Shoham Sabach, and Branislav Kveton.<br />
 In International Conference on Machine Learning (ICML), 2025.<br />
-[[Arxiv]](https://arxiv.org/abs/2412.19396)
+[[URL]](https://proceedings.mlr.press/v267/thekumparampil25a.html) [[Arxiv]](https://arxiv.org/abs/2412.19396)
 
-* **Autoregressive Optimal Design for Language Models**<br />
+* **FisherSFT: Data-Efficient Supervised Fine-Tuning of Language Models Using Information Gain**<br />
 Rohan Deb, Kiran Koshy Thekumparampil, Kousha Kalantari, Gaurush Hiranandani, Shoham Sabach, and Branislav Kveton.<br />
 In International Conference on Machine Learning (ICML), 2025.<br />
+[[URL]](https://proceedings.mlr.press/v267/deb25a.html) [[Arxiv]](https://arxiv.org/abs/2505.14826)
 
 * **An Efficient Plugin Method for Metric Optimization of Black-Box Models**<br />
 Siddartha Devic, Nurendra Choudhary, Anirudh Srinivasan, Sahika Genc, Branislav Kveton, Gaurush Hiranandani.<br />
