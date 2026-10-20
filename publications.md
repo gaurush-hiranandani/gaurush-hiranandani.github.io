@@ -23,10 +23,6 @@ Rohan Deb, Kiran Koshy Thekumparampil, Kousha Kalantari, Gaurush Hiranandani, Sh
 In International Conference on Machine Learning (ICML), 2025.<br />
 [[URL]](https://proceedings.mlr.press/v267/deb25a.html) [[Arxiv]](https://arxiv.org/abs/2505.14826)
 
-* **An Efficient Plugin Method for Metric Optimization of Black-Box Models**<br />
-Siddartha Devic, Nurendra Choudhary, Anirudh Srinivasan, Sahika Genc, Branislav Kveton, Gaurush Hiranandani.<br />
-[[Arxiv]](https://arxiv.org/abs/2503.02119)
-
 * **ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding**<br />
 Zixuan Liu, Gaurush Hiranandani, Kun Qian, Edward W. Huang, Yi Xu, Belinda Zeng, Karthik Subbian, and Sheng Wang.<br />
 In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM, 2023).<br />
