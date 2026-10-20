@@ -5,6 +5,10 @@ permalink: /students/
 ---
 I have been extremely lucky to have worked with some amazing interns/students.
 
+* Eric Chen (UIUC, 2026)
+* Abhay Anand (UCSD, 2026)
+* Mehul Maheshwari (UCSD, 2025)
+* Ujwal Dinesha (Texas A&M, 2025)
 * Siddartha Devic (USC, 2024)
 * Rohan Deb (UW-Madison, 2024)
 * Zhining Liu (UIUC, 2023)
